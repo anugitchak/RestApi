@@ -1,0 +1,27 @@
+[
+    {
+        "name":"samsung",
+        "price":1000,
+        "feature":true
+    },
+    {
+        "name":"iph14",
+        "price":8000,
+        "feature":true
+    },
+    {
+        "name":"samsungpro",
+        "price":1000,
+        "featured":true
+    },
+    {
+        "name":"samsungMax",
+        "price":20000,
+        "feature":true
+    },
+    {
+        "name":"realme",
+        "price":10000,
+        "feature":true
+    }
+]
